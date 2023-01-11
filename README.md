@@ -1,4 +1,4 @@
-#Prototype-IT: The Earthwise Framework SDSS for the Islands Trust of British Columbia, Canada
+# Prototype-IT: The Earthwise Framework SDSS for the Islands Trust of British Columbia, Canada
 
 Note, this page was called Prototype-IT at one point, and could be changed to Earthwise-IT with permission from Islands Trust, and the tool was originally called LandAdvisor.
 
