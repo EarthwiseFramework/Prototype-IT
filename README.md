@@ -1,5 +1,6 @@
-# Prototype-IT
-The Earthwise Framework SDSS for the sample project based on Islands Trust, British Columbia, conservation planning. (Note that it was originally called LandAdvisor.)
+#Earthwise-IT: The Earthwise Framework SDSS for the Islands Trust of British Columbia, Canada
+
+Note, this page was called Prototype-IT at one point, and the tool was originally called LandAdvisor.
 
 This is for ArcGIS Desktop 10.x, based on the Islands Trust conservation planning project
 
@@ -15,3 +16,5 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program. If not, see <http://www.gnu.org/licenses/>.
+
+There are at least two peer reviewed publications that refer to this toolbox.
